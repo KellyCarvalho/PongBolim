@@ -1,7 +1,7 @@
 Pongbolim
 
  ## Jogador 1: 
-setas direcionais
+setas direcionais para cima e para baixo
 
 ## Jogador 2:
-W A S D
+W  S 
